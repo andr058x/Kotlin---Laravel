@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680039703982",
+    "project_id": "weathertodo-dee21",
+    "storage_bucket": "weathertodo-dee21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680039703982:android:4ad071d9bd7cd82a2c943f",
+        "android_client_info": {
+          "package_name": "com.raj.weathertodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680039703982-sgfjmothcrgg183jleudc9km67a2ov64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtrU3ecga21_X1KvpZ83Be_JhJMd6jd2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680039703982-sgfjmothcrgg183jleudc9km67a2ov64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

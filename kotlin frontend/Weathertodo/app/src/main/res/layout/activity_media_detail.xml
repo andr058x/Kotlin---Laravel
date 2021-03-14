@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".mediaDetail.MediaDetailActivity">
+
+    <ImageView
+        android:visibility="gone"
+        android:id="@+id/iv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.jarvanmo.exoplayerview.ui.ExoVideoView
+        android:visibility="gone"
+        android:id="@+id/videoView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"/>
+
+    <VideoView
+        android:visibility="gone"
+        android:id="@+id/videoView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp" />
+
+</LinearLayout>

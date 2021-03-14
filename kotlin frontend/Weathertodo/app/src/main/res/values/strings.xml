@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weathertodo</string>
+    <string name="celcius">\u2103</string>
+</resources>
